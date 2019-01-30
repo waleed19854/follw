@@ -2928,7 +2928,7 @@ client.on("guildMemberAdd", member => {
 
 client.on('ready', function(){
     var ms = 10000 ;
-    var setGame = [' !!help ','Malicious™ | Server ' ];
+    var setGame = [' !!help ','By|DAMN LIFE | Server1 ' ];
     var i = -1;
     var j = 0;
     setInterval(function (){
